@@ -1,0 +1,16 @@
+{
+  "name": "Livsside",
+  "short_name": "Livsside",
+  "description": "Mine opgaver, emner og dagsplan",
+  "lang": "da",
+  "start_url": "./#/idag",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e0f13",
+  "theme_color": "#6d5ef5",
+  "icons": [
+    { "src": "ikon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "ikon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
